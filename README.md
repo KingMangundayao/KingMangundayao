@@ -7,6 +7,10 @@
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5iNXR3aHFtb2phNnRrbTZkcmJqOThuNnhmeHh3bm1uODhqdXR5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eaq9KLdCRaIerLnPjW/giphy.gif" alt="Coding GIF" />
 </div>
 
+<div align="center">
+  <img height="180" src="my-octocat.png" alt="My Photo">
+</div>
+
 <br />
 
 # 💫 About Me:
