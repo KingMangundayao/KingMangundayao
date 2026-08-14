@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=KingMangundayao&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=KingMangundayao&theme=dark&hide_border=true" />
 
 <br/>
 
