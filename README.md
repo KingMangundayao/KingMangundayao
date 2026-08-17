@@ -17,7 +17,7 @@
 
 # 💫 About Me:
 
-🎓**Education:** Currently a 3rd Year BSCS Student specializing IS (_Intelligent Systems_)- from the College of Computer Studies at LSPU-SPCC<br>🔭 **I’m currently working on:** something (js keeping myself busy and tryna learn something new)<br>🌱 **I’m currently learning:** node.js<br>💬 **Ask me about...** well, i dunno.<br>💡**Fun fact:** I can play the saxophone :D<br>⚡**Interests:** Gaming, Tech enthusiast, Taking Sidequests, Likes being chronically online and exploring new trends on media online... (mainly doomscrolling💀)
+🎓**Education:** Currently a 3rd Year BSCS Student specializing IS (_Intelligent Systems_)- from the College of Computer Studies at LSPU-SPCC<br>🔭 **I’m currently working on:** something (js keeping myself busy and tryna learn something new)<br>🌱 **I’m currently learning:** node.js<br>💬 **Ask me about...** well, i dunno.<br>💡**Fun fact:** I can play the saxophone :D<br>🎵**Music**: eyes<br>⚡**Interests:** Gaming, Tech enthusiast, Taking Sidequests, Likes being chronically online and exploring new trends on media online... (mainly doomscrolling💀)
 
 # 💻 Tech Stack:
 
