@@ -21,7 +21,7 @@
 🔭 **I’m currently working on:** something (js keeping myself busy and tryna learn something new)<br>
 🌱 **I’m currently learning:** node.js<br>💬 **Ask me about...** well, i dunno.<br>
 💡**Fun fact:** I can play the saxophone :D<br>
-🎵**Music**: AEAO <br>
+🎵**Music**: Only <br>
 ⚡**Interests:** Gaming, Tech enthusiast, Taking Sidequests, Likes being chronically online and exploring new trends on media online...
 
 # 💻 Tech Stack:
